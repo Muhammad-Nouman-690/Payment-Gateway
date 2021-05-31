@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Payment-Gateway/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/Payment-Gateway/static/js/main.d27f2977.chunk.js",
+    "main.js.map": "/Payment-Gateway/static/js/main.d27f2977.chunk.js.map",
+    "runtime-main.js": "/Payment-Gateway/static/js/runtime-main.ded7b99b.js",
+    "runtime-main.js.map": "/Payment-Gateway/static/js/runtime-main.ded7b99b.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Payment-Gateway/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.019b0a6a.chunk.js": "/Payment-Gateway/static/js/2.019b0a6a.chunk.js",
+    "static/js/2.019b0a6a.chunk.js.map": "/Payment-Gateway/static/js/2.019b0a6a.chunk.js.map",
+    "static/js/3.13139b90.chunk.js": "/Payment-Gateway/static/js/3.13139b90.chunk.js",
+    "static/js/3.13139b90.chunk.js.map": "/Payment-Gateway/static/js/3.13139b90.chunk.js.map",
+    "index.html": "/Payment-Gateway/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Payment-Gateway/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/Payment-Gateway/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.019b0a6a.chunk.js.LICENSE.txt": "/Payment-Gateway/static/js/2.019b0a6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ded7b99b.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.019b0a6a.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.d27f2977.chunk.js"
+  ]
+}
